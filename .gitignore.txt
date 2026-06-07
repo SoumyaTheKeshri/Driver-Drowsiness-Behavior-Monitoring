@@ -1,0 +1,9 @@
+venv/
+venv311/
+venv312/
+__pycache__/
+*.pyc
+logs/
+*.csv
+models/*.h5
+.env
