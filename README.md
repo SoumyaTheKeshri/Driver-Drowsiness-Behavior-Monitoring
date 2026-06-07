@@ -26,4 +26,3 @@ Features:
 - Live web dashboard
 - Per-session CSV logging & evaluation report
 
-Academic Project — MCA Final Year | CSET312
