@@ -198,3 +198,12 @@ Features:
 - Per-session CSV logging & evaluation report
 
 >>>>>>> 6ceb7782879f2ce10aeacbbdc0494202086b11d1
+
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" 
+  src="https://github.com/user-attachments/assets/311bd15a-306b-486a-b1b0-05c354927500" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/631f0290-4ab7-47fe-aeff-8d1a6ab08e46" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/10dce825-2e1e-4dcd-90a2-da67b059de7e" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/2f4fd052-5d8e-4fb9-bfd5-459bb1e56d53" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/9b15eb48-bfb9-463b-b2c9-3f3d9933df51" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/62ff4344-f0c3-4c9c-8506-075cab175c74" />
+<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/1a2dd287-46ab-40b6-9f10-73a632b489a3" />
