@@ -201,5 +201,11 @@ Features:
 
 <img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" 
   src="https://github.com/user-attachments/assets/311bd15a-306b-486a-b1b0-05c354927500" />
-<img width="1600" height="1022" alt="WhatsApp Image 2026-06-09 at 1 53 27 PM" src="https://github.com/user-attachments/assets/5dc1b5bf-43f4-4f0d-88fe-994319ca37c0" />
+<img width="1600" height="1011" alt="image" src="https://github.com/user-attachments/assets/bc839abd-b42f-4302-acaf-9e47e1d8664b" />
+<img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/aa893cf9-9928-460f-9762-02fa615bdad1" />
+<img width="1600" height="1007" alt="image" src="https://github.com/user-attachments/assets/3dea1e7c-9634-4564-9e8d-c0f442732e27" />
+<img width="1600" height="1019" alt="image" src="https://github.com/user-attachments/assets/092e13f4-ea40-4470-94d1-17dc9c993185" />
+<img width="1600" height="1044" alt="image" src="https://github.com/user-attachments/assets/5da4ad27-5ed6-49ff-b70d-4adbccbc8eae" />
+<img width="1600" height="1041" alt="image" src="https://github.com/user-attachments/assets/cac8340b-e1a1-435c-92c6-883f22c8fc08" />
+
 
